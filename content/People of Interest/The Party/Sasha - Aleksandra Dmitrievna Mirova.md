@@ -1,0 +1,1 @@
+Aasimar Paladin from [[Halenrow]]

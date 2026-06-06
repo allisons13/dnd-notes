@@ -1,0 +1,1 @@
+Wizard / Faculty at the [[College of Arcana]] - one of the most powerful arcane minds in Velmora - fancies himself an **inventor**; optimistic, eccentric, and kind hearted

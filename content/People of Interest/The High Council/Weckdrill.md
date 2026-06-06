@@ -1,0 +1,1 @@
+*[[Varduun]] - They have only recently, within the last few days, elected a new representative, and the news of who that person is has not yet reached you*
