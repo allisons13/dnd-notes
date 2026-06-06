@@ -22,7 +22,7 @@ configuration:
     colors:
       lightMode:
         light: "#EFE8D1"
-        lightgray: "#F4EEE0"
+        lightgray: "#1A0200"
         gray: "#DDCB9F"
         darkgray: "#D2B97E"
         dark: "#420500"
