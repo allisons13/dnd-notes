@@ -3,7 +3,7 @@
 
 
 --- 
->![quote] Welcome to Velmora
+### Welcome to Velmora
 >[[Velmora]] is your homeland.
 >
 >It is a large island of old roads, settled towns, working harbors, quiet groves, rocky highlands, fertile fields, public shrines, and shared traditions. Its people do not think of it as a frontier or a place on the edge of something greater. To those who live here, Velmora is simply home: familiar, imperfect, beloved, and whole.
