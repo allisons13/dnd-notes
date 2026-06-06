@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Velmora
-  pageTitleSuffix: "dnd-notes"
+  pageTitleSuffix: dnd-notes
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -21,11 +21,11 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
+        light: "#EFE8D1"
+        lightgray: "#F4EEE0"
+        gray: "#DDCB9F"
+        darkgray: "#D2B97E"
+        dark: "#420500"
         secondary: "#284b63"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
