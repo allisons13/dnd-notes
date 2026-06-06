@@ -22,9 +22,9 @@ configuration:
     colors:
       lightMode:
         light: "#EFE8D1"
-        lightgray: "#1A0200"
+        lightgray: "#C5A762"
         gray: "#DDCB9F"
-        darkgray: "#D2B97E"
+        darkgray: "#170502"
         dark: "#420500"
         secondary: "#284b63"
         tertiary: "#84a59d"
