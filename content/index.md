@@ -14,6 +14,5 @@
 >
 >This campaign begins in [[Kaelith]], the island’s capital and home of the College of Arcana. Each player character has received a vision they believe to come from Kaenum. The vision is strange and difficult to ignore. Though each vision is different, all of them point toward the same person: [[Archmage Liora Vael]], Velmora’s most respected of magical authorities. 
 >
->You are not outsiders arriving in a strange land. You are people of Velmora, shaped by its places, customs, relationships, and assumptions. Whatever else your character becomes, this
-island is the world that made you.
+>You are not outsiders arriving in a strange land. You are people of Velmora, shaped by its places, customs, relationships, and assumptions. Whatever else your character becomes, this island is the world that made you.
 
