@@ -20,7 +20,7 @@ gracious, but they are attentive. They tend to notice haste, arrogance, grief, h
 carelessness. Many of the settlement’s customs encourage people to slow down enough to
 understand what they are actually feeling before they act.
 
-#### Public Landmarks:
+#### Places of Interest:
 - [[Woodland Shrines]]
 - [[Reflection Pools]]
 - [[Garden Path Halls]]

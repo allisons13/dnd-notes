@@ -8,9 +8,13 @@ The city is home to the [[College of Arcana]], the most prestigious magical inst
 
 Kaelith is also the seat of the [[High Council]]. Representatives from the other four major settlements gather here to address island-wide concerns, negotiate the use of shared resources, and preserve cooperation between regions. Kaelith itself serves as host and administrative center rather than sending a separate voting representative, though the [[Archmage Liora Vael|Archmage]] is an unofficial member and sits in on all High Council business.
 
+#### People of Interest:
+- [[Master Yorloc Alweezar]]
+- [[Archmage Liora Vael]]
 #### Places of Interest:
 - [[College of Arcana|The College of Arcana]]
 - [[Council Ward]]
 - [[Lantern Steps]]
 - [[Steeping Quill]]
 - [[Yorloc's Workshop]]
+
