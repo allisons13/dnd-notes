@@ -5,6 +5,9 @@ title: Home
 
 ### [[Session 1]]
 
+### [[Session 2]]
+
+--- 
 ### CURRENT MISSION
 
 ##### From Session 1 Notes...
