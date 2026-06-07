@@ -1,3 +1,6 @@
+---  
+title: Home 
+---  
 ### SESSION NOTES
 #### [[Session 1]]
 
