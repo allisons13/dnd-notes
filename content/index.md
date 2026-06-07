@@ -14,7 +14,7 @@ title: Home
 >*Liora tells us that she is sure that the visions are not random and for sure from [[Kaenum]] but before she tells us all that she thinks, we are to head to the archives to help her find more answers. Our answers lie in the oldest records in the archive.* 
 
 ##### Relavent Pages
-- ###### [[Kaelith]]
+- [[Kaelith]]
 - [[Archmage Liora Vael]]
 - [[College of Arcana]]
 - [[Kaenum]]
