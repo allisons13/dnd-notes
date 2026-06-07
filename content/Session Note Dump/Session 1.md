@@ -4,7 +4,7 @@ Everyone reveals that they have all had a strange dream that drew us to this are
 
 [[Shyrrik Zentharis]] shares that he believes deeply that the [[Forgotten Realm]] is real - folks feel that he is crazy. But he also says that he can get us in contact with the [[Archmage Liora Vael]]. 
 
-"Front desk" at [[College of Arcana]] - [[Roz]] - she's difficult - for just a moment we get the sense that she believes what we are saying and get an audience. 
+"Front desk" at [[College of Arcana]] - [[Roz]] - she's difficult - but for just a moment we get the sense that she believes what we are saying and get an audience ([[Sasha - Aleksandra Dmitrievna Mirova|Sasha]] rolled really well so we got some sway). 
 
 Meeting with [[Archmage Liora Vael]] - she does not quite understand what is going on - she thinks it is wise that we came to her with this information. Hers is not the name that we are looking for because we have been able to speak her name, and we need to find out what is behind the door. - the Archmage seems genuinely curious and has never heard of the door of which we speak of 
 
@@ -19,7 +19,7 @@ In [[Yorloc's Workshop]] we show him his cheese and Cheese Rat - he was intendin
 
 Heading over to the [[Council Ward]] where Liora is finishing up with a council meeting where we encounter all of the council members at the high table.
 
-Suddenly, [[Tumdrill Stoneblessed|Tumdril]] and [[Blewit]] are knocked over by a ram (Herkcus sp?) running at them who really just wants pets - the ram belongs to [[Weckdrill]] the new council member from [[Varduun]]. 
+Suddenly, [[Tumdrill Stoneblessed|Tumdril]] and [[Blewit]] are knocked over by a ram - Herkus running at them who really just wants pets - the ram belongs to [[Weckdrill]] the new council member from [[Varduun]]. 
 
 Liora tells us that she is sure that the visions are not random and for sure from [[Kaenum]] but before she tells us all that she thinks, we are to head to the archives to help her find more answers. Our answers lie in the oldest records in the archive. 
 

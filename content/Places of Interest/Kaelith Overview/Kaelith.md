@@ -10,4 +10,7 @@ Kaelith is also the seat of the [[High Council]]. Representatives from the other
 
 #### **Public landmarks:**
 - [[College of Arcana|The College of Arcana]]
-- [[High Council|The High Council chambers]]
+- [[Council Ward]]
+- [[Lantern Steps]]
+- [[Steeping Quill]]
+- [[Yorloc's Workshop]]
