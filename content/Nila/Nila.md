@@ -20,9 +20,13 @@ gracious, but they are attentive. They tend to notice haste, arrogance, grief, h
 carelessness. Many of the settlement’s customs encourage people to slow down enough to
 understand what they are actually feeling before they act.
 
-#### Places of Interest:
+#### PLACES OF INTEREST
 - [[Woodland Shrines]]
 - [[Reflection Pools]]
 - [[Garden Path Halls]]
 - [[Moonlit Gathering Spaces]]
 - [[Scared Nature Paths]]
+
+
+#### MAP OF NILA
+![[Nila.png]]

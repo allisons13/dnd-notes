@@ -8,7 +8,7 @@ Dwarves and Goliaths are especially common here, though Varduun is not exclusive
 
 Varduun can seem severe to outsiders, but it is not joyless. Its pride is rooted in skill, resilience, and the satisfaction of making something solid from stubborn material. It is also known for nearby hot springs, where workers, travelers, and locals gather for rest, conversation, recovery, and argument in equal measure.
 
-#### Places of Interest:
+#### PLACES OF INTEREST
 - [[The Quarry]]
 - [[The Forge District]]
 - [[Old Sealed Excavations]]
@@ -17,3 +17,5 @@ Varduun can seem severe to outsiders, but it is not joyless. Its pride is rooted
 - [[Hotsprings]]
 - [[Heartstone Mountains]]
 
+#### MAP OF VARDUUN
+![[Varduun.png]]

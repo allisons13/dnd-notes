@@ -8,10 +8,11 @@ Halenrow is not flashy, but it is essential. Its people tend to value reliabilit
 
 The town has a grounded warmth, but not a sentimental one. People may welcome strangers, but they still notice whether those strangers respect work, tools, land, animals, and time. Halenrow’s importance to Velmora gives it a quiet authority. When the fields suffer, the whole island eventually feels it.
 
-#### Places of Interest:
+#### PLACES OF INTEREST
 - [[Central Market]]
 - [[The Granaries]]
 - [[The Mills and Storehouses]]
 - [[The Orchards]]
 - [[Farmlands]]
 
+#### MAP OF HALENROW![[Halenrow.png]]
