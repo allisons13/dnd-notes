@@ -1,5 +1,6 @@
 #### *Dwarf Monk from [[Varduun]]*
 
+![[Tumdrill.jpg|290]]
 #### BACKSTORY
 >*Tumdrill Stoneblessed was born in the rumbling depths of Varduun, a hardy dwarven mining town carved into the roots of the Hearthstone Mountains.  From a young age, he has been caught between two powerful and conflicting legacies.*
 >
@@ -15,4 +16,3 @@
 >
 >*Deeply torn, Tumdrill struggles to find balance. Part of him longs to fully embrace the Kata of the Living Stone and become the protector his mother’s lineage expects. Another part fears that choosing violence — no matter how righteous the cause — would betray his father’s painful lesson and the vow of peace he holds dear. He now searches for a path where his considerable talents can serve good without violating the sanctity of life.*
 
-![[Tumdrill.jpg]]
