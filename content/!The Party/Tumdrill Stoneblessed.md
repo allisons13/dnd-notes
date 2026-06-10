@@ -14,3 +14,5 @@
 >*Now in his early adulthood, Tumdrill lives in the bustling capital of Kaelith, where he is enrolled in medical school at his father’s insistence - Physicians College, just outside the College of Arcana. He excels in his studies and truly enjoys helping the sick and injured. Yet he cannot ignore the call of the mountain and the martial rhythm that flows through his blood.*
 >
 >*Deeply torn, Tumdrill struggles to find balance. Part of him longs to fully embrace the Kata of the Living Stone and become the protector his mother’s lineage expects. Another part fears that choosing violence — no matter how righteous the cause — would betray his father’s painful lesson and the vow of peace he holds dear. He now searches for a path where his considerable talents can serve good without violating the sanctity of life.*
+
+![[Tumdrill.jpg]]
