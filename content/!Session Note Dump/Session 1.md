@@ -11,7 +11,7 @@ Meeting with [[Archmage Liora Vael]] - she does not quite understand what is goi
 She is giving us a mission - a local teahouse has a infestation [[Steeping Quill]] - the shop is busy "as usual" - we see a frantic [[Mara Quillfen]] who leads us to the back "the basement is squeaking" 
 - there are rats... we need to kill them... 
 
-Heading into the basement - there are swarms of rats! as well as a rat made fully of cheese. After killing the swarms and the Cheese Rat we find a glowing piece of cheese in the corner of the room - the cheese is covered in mostly Transmutation magic and a little bit of Evocation magic. 
+Heading into the basement - there are swarms of rats! as well as a rat made fully of cheese - #CheeseRat. After killing the swarms and the Cheese Rat we find a glowing piece of cheese in the corner of the room - the cheese is covered in mostly Transmutation magic and a little bit of Evocation magic. 
 
 We go upstairs to show Mara Cheese Rat as well as the magic cheese that we found with a bite taken out of it. Mara believes this is the work of [[Master Yorloc Alweezar]], she wants us to take the cheese and the corpse of Cheese Rat to him. 
 
@@ -21,7 +21,7 @@ Heading over to the [[Council Ward]] where Liora is finishing up with a council 
 
 Suddenly, [[Tumdrill Stoneblessed|Tumdril]] and [[Blewit]] are knocked over by a ram - Herkus running at them who really just wants pets - the ram belongs to [[Weckdrill]] the new council member from [[Varduun]]. 
 
-Liora tells us that she is sure that the visions are not random and for sure from [[Kaenum]] but before she tells us all that she thinks, we are to head to the archives to help her find more answers. Our answers lie in the oldest records in the archive. 
+Liora tells us that she is sure that the visions are not random and for sure from [[Kaenum]] but before she tells us all that she thinks, we are to head to [[The Archives]] to help her find more answers. Our answers lie in the oldest records in the archives - the bottom level. We don't have to go now, but to let her know before we head down because she needs to disable the security. 
 
 
 
