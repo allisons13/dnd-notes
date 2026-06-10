@@ -15,9 +15,12 @@ title: Home
 *Liora tells us that  our best heading into figuring this all out is to start in [[Halenrow]] and to talk to [[Alaric “Larry”]] as they have had the best records of all the cities and he probably has an idea of where its best for us to start on this mission from Kaenum. And before we leave to where Larry suggests we go, we should visit Yorloc, he has some tools for us on our journey.*
 ##### Relavent Pages
 - [[Founding Safeguard Record]]
+- [[Lockbox]]
 - [[Master Yorloc Alweezar]]
 - [[The Vision]]
 - [[Archmage Liora Vael]]
+
+![[Halenrow.png]]
 
 --- 
 
