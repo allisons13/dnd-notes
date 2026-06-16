@@ -8,11 +8,11 @@ Yorloc tells us we need to find the [[Founding Safeguard Record]] which Shyrrik 
 
 ![[Founding Safeguard Record#The Text]]
 
-We go up to the offices of the [[Archmage Liora Vael]] and she reads the record several times. Blewit asks when the record was written, she says it was written during the founding of Velmora, or not long after about 700 years ago. We know there is not is not too much left from that long ago. She pulls out a small [[Lockbox]] from her desk, she feels now that she can share what she believes [[The Vision|our visions]] were about. The box has four key holes and our task from Kaenum is to find the things that will open the box - it might not necessarily be literally keys we are looking for but something else, she believes it depends what the city and its people have determined the "key" to take shape.
+We go up to the offices of the [[Archmage Liora Vael]] and she reads the record several times. Blewit asks when the record was written, she says it was written during the founding of Velmora, or not long after about 500 years ago. We know there is not is not too much left from that long ago. She pulls out a small [[Lockbox]] from her desk, she feels now that she can share what she believes [[The Vision|our visions]] were about. The box has four key holes and our task from Kaenum is to find the things that will open the box - it might not necessarily be literally keys we are looking for but something else, she believes it depends what the city and its people have determined the "key" to take shape.
 
 Liora doesn't know why this is happening now but we should trust in [[Kaenum]] that we have been chosen specifically for this mission. 
 
-Blewit straight up asks if Liora has been around since the founding, she asks him back "Do I look 700 years old?" Liora is very serious about her skincare routine. 
+Blewit straight up asks if Liora has been around since the founding, she asks him back "Do I look 500 years old?" Liora is very serious about her skincare routine. 
 
 Liora tells us that  our best heading into figuring this all out is to start in [[Halenrow]] and to talk to [[Alaric “Larry”]] as they have had the best records of all the cities and he probably has an idea of where its best for us to start on this mission from Kaenum. And before we leave to where Larry suggests we go, we should visit Yorloc, he has some tools for us on our journey. 
 

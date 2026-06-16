@@ -10,4 +10,4 @@
 > *Their keeping shall pass into ordinary hands, that fear, ambition, and memory may fail before duty does.* 
 
 #### Notes 
-According to [[Archmage Liora Vael]] is was written about 700ish years ago. 
+According to [[Archmage Liora Vael]] is was written about 500ish years ago. 
