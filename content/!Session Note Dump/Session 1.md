@@ -11,7 +11,7 @@ Meeting with [[Archmage Liora Vael]] - she does not quite understand what is goi
 She is giving us a mission - a local teahouse has a infestation [[Steeping Quill]] - the shop is busy "as usual" - we see a frantic [[Mara Quillfen]] who leads us to the back "the basement is squeaking" 
 - there are rats... we need to kill them... 
 
-Heading into the basement - there are swarms of rats! as well as a rat made fully of cheese - #CheeseRat. After killing the swarms and the Cheese Rat we find a glowing piece of cheese in the corner of the room - the cheese is covered in mostly Transmutation magic and a little bit of Evocation magic. 
+Heading into the basement - there are swarms of rats! as well as a rat made fully of cheese - #Cheese_Rat. After killing the swarms and the Cheese Rat we find a glowing piece of cheese in the corner of the room - the cheese is covered in mostly Transmutation magic and a little bit of Evocation magic. 
 
 We go upstairs to show Mara Cheese Rat as well as the magic cheese that we found with a bite taken out of it. Mara believes this is the work of [[Master Yorloc Alweezar]], she wants us to take the cheese and the corpse of Cheese Rat to him. 
 
