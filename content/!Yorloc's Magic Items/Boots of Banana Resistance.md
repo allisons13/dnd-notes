@@ -1,0 +1,1 @@
+![[boots of banana resistance.jpg]]
