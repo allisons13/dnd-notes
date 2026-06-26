@@ -1,0 +1,2 @@
+***From Session 3:*** *The [[Tally Offices]] are where we are most likely to find [[Alaric “Larry”|Larry]] and after arriving in town we head straight there. We meet Larry in his offices and he is very busy and is headed to another meeting, so he tells us to meet him here tomorrow. As we are leaving Larry's office a young woman runs by very quickly, knocking Sasha over. When Sasha gets up she realizes that she is very familiar with the woman.*  
+

@@ -3,24 +3,25 @@ title: Home
 ---  
 ## SESSION NOTES
 
-### [[Session 1]]
-
 ### [[Session 2]]
 
 ### [[Session 3]]
 
+### [[Session 4]]
+
 --- 
 ### CURRENT MISSION
 
-#### From Session 2 Notes...
+#### From Session 3 Notes...
 
-*Liora tells us that  our best heading into figuring this all out is to start in [[Halenrow]] and to talk to [[Alaric “Larry”]] as Halenrow has had the best records of all the cities. Larry probably has an idea of where its best for us to start on this mission from Kaenum.  Before we leave to where Larry suggests we go, we should visit Yorloc, he has some tools for us on our journey.*
+*The [[Tally Offices]] are where we are most likely to find [[Alaric “Larry”|Larry]] and after arriving in town we head straight there. We meet Larry in his offices and he is very busy and is headed to another meeting, so he tells us to meet him here tomorrow. As we are leaving Larry's office a young woman runs by very quickly, knocking Sasha over. When Sasha gets up she realizes that she is very familiar with the woman.*  
 ##### Relavent Pages
+- [[Halenrow]]
+- [[Alaric “Larry”]]
+- [[The Vision]]
 - [[Founding Safeguard Record]]
 - [[Lockbox]]
-- [[Master Yorloc Alweezar]]
-- [[The Vision]]
-- [[Archmage Liora Vael]]
+
 
 ![[Halenrow.png]]
 
