@@ -1,0 +1,1 @@
+[[Eadaz (Ead) Nara]]'s father - accidentally killed [[Sasha - Aleksandra Dmitrievna Mirova|Sasha]]'s parents while trying to get them to stop from leaving the farming collective. 
