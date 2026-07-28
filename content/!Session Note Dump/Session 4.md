@@ -10,16 +10,16 @@ Ead shows the group a cracked clay pot, she found it in a drainage bank that the
 
 Back at [[Nara Family Farm]], the gang presses with all evidence and Cassar admits what he has done... he accidentally killed them, he just wanted to set fire to the farm to stop them from buying more land and leaving the collective.   
 
-Cassar turns himself in at the Tally Offices, and we get to actually asking [[Alaric “Larry”|Larry]] about the key, he doesn't know about a key or anything stored in a vault, but he recommends looking into records, trying to find things that Halenrow has tried to forget. He pulls out a bunch of records and maps, we see that there was once a communal well, that is now covered up by the Tally Offices, the well might still exist in the ground floor of the offices. [[Blewit]] finds a spot that is "giving" and [[Shyrrik Zentharis|Shyrrik]] with his amazing #Plumbing skills thinks there might be a well there, Sasha with her #Carpentry skills peels up the floor boards and there is in fact a well! [[Tumdrill Stoneblessed|Tumdrill]] goes down into the well first, he sees a light down at the end of the hallway in this well. Larry is fucking buff so he helps us for a bit by holding onto the rope as we descend down into the old well, but he's not gonna hang around, so he ties the rope off for us cause he has more important shit to do.  
+Cassar turns himself in at the Tally Offices, and we get to actually asking [[Alaric “Larry”|Larry]] about the key, he doesn't know about a key or anything stored in a vault, but he recommends looking into records, trying to find things that Halenrow has tried to forget. He pulls out a bunch of records and maps, we see that there was once a communal well, that is now covered up by the Tally Offices, the well might still exist in the ground floor of the offices. [[Blewit]] finds a spot that is "giving" and [[Shyrrik Zentharis|Shyrrik]] with his amazing #Plumbing skills thinks there might be a well there, Sasha with her #Carpentry skills peels up the floor boards and there is in fact a well! [[Tumdrill Stoneblessed|Tumdrill]] goes down into the well first, he sees a light down at the end of the hallway. Larry is fucking buff so he helps us for a bit by holding onto the rope as we descend down into the old well, but he's not gonna hang around, so he ties the rope off for us cause he has more important shit to do.  
 
 Down the hall in the [[Ancient Abandoned Well]], Tumdrill sees an odd blue light, Blewit casts #Detect_Magic to identify what the light might be - he detects **all** forms of magic in the room...
 
-We enter a large, tranquil chamber bathed in blue light. In the floor there are eight pools of water. On the surface of each pool there is a reflection of the room above. High above is a vaulted ceiling with a beautiful painted mural depicting an angel is surrounded by eight doors. She holds a scroll in her right hand on which you can read the words: 
+We enter a large, tranquil chamber bathed in blue light. In the floor there are eight pools of water. On the surface of each pool there is a reflection of the room above. High above is a vaulted ceiling with a beautiful painted mural depicting an angel is surrounded by eight doors. She holds a scroll in her right hand on which reads: 
 
 > [!quote] 
 > “Look at me and I look at you. I never speak a word but I always tell the truth.”
 
-There appears to be no way out from this room. However, looking deep into the water, you see a door at the bottom of each pool.
+There appears to be no way out from this room. However, looking deep into the water, we see a door at the bottom of each pool.
 
 While Blewit takes a look into the 7th pool, associated with Necromancy, the angel from the mural looks extremely old, ancient. The angel moves and attacks! 
 
