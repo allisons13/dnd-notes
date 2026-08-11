@@ -41,3 +41,4 @@ next room, three deeper pools of water and a treasure chest. as we approach one 
 oak banded iron chest, locked. 187 gold 420 silver 95 copper 4 gem stones worth 25gp, irovry comb 45 gp, potion of healing, pair of sending stones (one use a day) !!! 
 
 we spin the wheel one more time, the third hallway opens, there is a set of stairs headed up to a second level of this strange room. the second floor has much emptier tunnels of water - we switched them off before, room number one.  there is another lever up here that we switch and hear a mechanical sound down below, a door appears. Fealar opens the door, there is another lever that Blewit swims down and pulls it.  
+
