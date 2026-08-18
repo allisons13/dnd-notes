@@ -3,20 +3,21 @@ title: Home
 ---  
 ## SESSION NOTES
 
-### [[Session 3]]
-
 ### [[Session 4]]
 
 ### [[Session 5]]
 
+### [[Session 6]]
+
 --- 
 ### Whats going on!
 
-#### From Session 5 Notes
-
+#### From Session 6 Notes
+*The pools now calm, [[Faelar]] uses his #Mage_Hand picks up a [[small key with a red gem]] on the end of it, off of the pedestal in the center of the room. Not sure how to get out of the strange rooms, the gang tentatively heads back into the main room. Upon entering we see where the treadwheel once sat there is now a shiny blue portal. Making the bold assumption that it will lead us out of these rooms, [[Tumdrill Stoneblessed|Tumdrill]] jumps in. The rest of the group quickly follows, hoping that he is right.* 
 
 ##### Relavent Pages
 - [[Halenrow]]
+- [[small key with a red gem]]
 - [[The Vision]]
 - [[Founding Safeguard Record]]
 - [[Ancient Abandoned Well]]
