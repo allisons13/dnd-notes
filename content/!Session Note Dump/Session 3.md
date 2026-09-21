@@ -10,6 +10,6 @@ The next day we see a pair of #Owl_Bears crossing the road, they are not initial
 
 Before we bed down the second day on the road we encounter nine #Giant_Wolf_Spiders, the  the guts of like half of the spiders go all over [[Faelar]], but the party prevails.
 
-On the third day we meet [[Pon the Orc]] with his broadsword Moonslicer, Pon helps up [[Faelar]] after he fell while trying to climb rocks to get away from the Orc in the first place - but now that Pon has done good he can go.
+On the third day we meet [[Pon the Ogre]] with his broadsword Moonslicer, Pon helps up [[Faelar]] after he fell while trying to climb rocks to get away from the Orc in the first place - but now that Pon has done good he can go.
 
 *The [[Tally Offices]] are where we are most likely to find [[Alaric “Larry”|Larry]] and after arriving in town we head straight there. We meet Larry in his offices and he is very busy and is headed to another meeting, so he tells us to meet him here tomorrow. As we are leaving Larry's office a young woman runs by very quickly, knocking Sasha over. When Sasha gets up she realizes that she is very familiar with the woman.*  

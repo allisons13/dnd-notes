@@ -14,7 +14,7 @@ We dream! instead of being teleported out of the well we climb out and emerge ou
 
 [[Blewit]] goes back to the well where he sees [[Clerk]] boarding up the [[Ancient Abandoned Well]] to make it look like it was before. 
 
-On the road again!! A couple of hours into our journey we see [[Pon the Orc]] again, he is taking, stolen items "presumably", that he has found. He is taking them to [[Kaelith]] to bring them to the Lost and Found. 
+On the road again!! A couple of hours into our journey we see [[Pon the Ogre]] again, he is taking, stolen items "presumably", that he has found. He is taking them to [[Kaelith]] to bring them to the Lost and Found. 
 
 Arriving back,  
 
