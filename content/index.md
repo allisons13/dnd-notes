@@ -12,18 +12,24 @@ title: Home
 --- 
 ### Whats going on!
 
-#### From Session 6 Notes
-*The pools now calm, [[Faelar]] uses his #Mage_Hand picks up a [[small key with a red gem]] on the end of it, off of the pedestal in the center of the room. Not sure how to get out of the strange rooms, the gang tentatively heads back into the main room. Upon entering we see where the treadwheel once sat there is now a shiny blue portal. Making the bold assumption that it will lead us out of these rooms, [[Tumdrill Stoneblessed|Tumdrill]] jumps in. The rest of the group quickly follows, hoping that he is right.* 
+#### From Session 7 Notes
+[[Qo Quem]] human, looks like a classic nerd, Blewit absolutely scares the crap out of this dude, bone chillingly terrifying honestly, note to self do not mess with Blewit. Blewit asks Qo why he distrusts Liora Vael, Qo says that he does trust Liora but he doesn't trust us. 
+
+[[Dean Joseph Gordon Diehard]] has a note for Tumdrill, he doesn't know who the person who was who gave him that note, just that they were looking for Tumdrill.  
+
+> [!quote] 
+>"As noble a mission as it may be, you'll soon learn that not all that is fractured can be mended."
+
+"What did they look like?" "Well, they were looking for you!"
 
 ##### Relavent Pages
-- [[Halenrow]]
-- [[small key with a red gem]]
-- [[The Vision]]
-- [[Founding Safeguard Record]]
-- [[Ancient Abandoned Well]]
+- [[Kaelith]]
+- [[Dean Joseph Gordon Diehard]]
+- [[Archmage Liora Vael]]
+- [[College of Arcana]]
 
 
-![[Halenrow.png]]
+![[Kaelith.png|681]]
 
 --- 
 

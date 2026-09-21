@@ -20,9 +20,9 @@ Arriving back,
 
 [[Shyrrik Zentharis|Shyrrik]] shares a story about his time in the Faewildᶦᵗˢ ᵗʳᵘᵉ and how no one believed him and how his parents laughed at him, highkey sad. Sasha shares a story about one of her favorite times on the farm with her parents, harvest time. 
 
-In the [[College of Arcana]] we hear a person asking the Archmage about issues in Halenrow and in the archive. Blewit asks who the gentleman was, she calls him a nuisance. He works with the council, he believes that the public should know what is going on, he doesn't understand what we are doing and seems to be frustrated that he doesn't know. Sasha hands the key over to Liora, she seems to be slightly in awe that the key actually exists. Liora hands over the [[Lockbox]] and Sasha puts the key in box and it clicks. When pressed she reaffirms that she received the box from [[Kaenum]] she does not know what is i
+In the [[College of Arcana]] we hear a person asking the Archmage about issues in Halenrow and in the archive. Blewit asks who the gentleman was, she calls him a nuisance. He works with the council, he believes that the public should know what is going on, he doesn't understand what we are doing and seems to be frustrated that he doesn't know. Sasha hands the key over to Liora, she seems to be slightly in awe that the key actually exists. Liora hands over the [[Lockbox]] and Sasha puts the key in box and it clicks. When pressed she reaffirms that she received the box from [[Kaenum]] she does not know what is in there. 
 
-She grew up with Kaenum and watched him become a god, she and Kaenum helped found Kaelith together. She was there when Kaenum created the box and the keys, she does not fully remember where the keys are or what they look like that is true. After founding Kaelith, Kaenum went out and founded the rest of the towns. After he left to found the other towns, Liora has never seen Kaenum since, not in the same way she did before. 
+When pressed we get more information from Liora, she grew up with Kaenum and watched him become a god, she and Kaenum helped found Kaelith together. She was there when Kaenum created the box and the keys, she does not fully remember where the keys are or what they look like. After founding Kaelith, Kaenum went away and founded the rest of the towns. After he left, Liora never saw Kaenum again, not in the same way she did before. 
 
 Belwit asks her again to share her age, she shares that she is not immortal, she is not a god, but she does not age quite the same way others do, she is about 550 years old. 
 
@@ -47,7 +47,7 @@ Yorloc has concluded that we have the key and askes to see it. He says the somet
 
 Tumdrill gets a note from a messenger telling him he needs to speak to someone in the College of Medicine. 
 
-[[Qo Quem]] human, looks like a classic nerd, Blewit absolutely shares the crap out of this dude, bone chillingly terrifying honestly, note to self do not mess with Blewit. Blewit asks Qo why he distrusts Liora Vael, Qo says that he does trust Liora but he 
+[[Qo Quem]] human, looks like a classic nerd, Blewit absolutely scares the crap out of this dude, bone chillingly terrifying honestly, note to self do not mess with Blewit. Blewit asks Qo why he distrusts Liora Vael, Qo says that he does trust Liora but he doesn't trust us. 
 
 [[Dean Joseph Gordon Diehard]] has a note for Tumdrill, he doesn't know who the person who was who gave him that note, just that they were looking for Tumdrill.  
 
