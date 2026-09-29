@@ -3,33 +3,30 @@ title: Home
 ---  
 ## SESSION NOTES
 
-### [[Session 5]]
-
 ### [[Session 6]]
 
 ### [[Session 7]]
 
+### [[Session 8]]
+
 --- 
 ### Whats going on!
 
-#### From Session 7 Notes
-[[Qo Quem]] human, looks like a classic nerd, Blewit absolutely scares the crap out of this dude, bone chillingly terrifying honestly, note to self do not mess with Blewit. Blewit asks Qo why he distrusts Liora Vael, Qo says that he does trust Liora but he doesn't trust us. 
+#### From Session 8 Notes
+Description of Varduun - ask Michael pls
 
-[[Dean Joseph Gordon Diehard]] has a note for Tumdrill, he doesn't know who the person who was who gave him that note, just that they were looking for Tumdrill.  
-
-> [!quote] 
->"As noble a mission as it may be, you'll soon learn that not all that is fractured can be mended."
-
-"What did they look like?" "Well, they were looking for you!"
+As we step into the city, we notice that the ground is shaking irregularly, it only seems to increase as we push further into the mountain. All of sudden the ground in front of us explodes ! 
 
 ##### Relavent Pages
-- [[Kaelith]]
-- [[Dean Joseph Gordon Diehard]]
-- [[Archmage Liora Vael]]
-- [[College of Arcana]]
+- [[Varduun]]
+- [[Stone Singers]]
+- [[Stonebound Accord]]
+- [[The Vision]]
+- [[small key with a red gem]]
 
 
-![[Kaelith.png|681]]
+![[Varduun.png]]
+
 
 --- 
 
