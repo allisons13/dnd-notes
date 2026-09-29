@@ -16,14 +16,14 @@ On the road we happen upon a small shrine to [[Kaenum]] on the side of the road 
 
 The next morning, we encounter a man screaming for our shoes, he seems to be quite distressed. [[Shyrrik Zentharis|Shyrrik]] casts #Calm_Emotions on the man, he tells us that just needs a pair of shoes, we give him the [[Boots of Banana Resistance]], he's very happy for the moment. 
 
-Before we get to Varduun, Tumdrill tells us to not tell his father, if we see him, that he's been fighting, he is a pacifist and doesn't want Tumdrill to fight. 
+Before we get to Varduun, Tumdrill tells us to not tell his father, if we see him, that he's been fighting, his father is a pacifist and doesn't want Tumdrill to fight. 
 
-In our path there is a downed tree, we hear some slight rustling inside of the log, using minor illusion, [[Faelar]] draws the #Hobgoblins out of hiding thinking that they got the jump on some easy targets. 
+In our path there is a downed tree, we hear some slight rustling inside of the log, using minor illusion, [[Faelar]] draws the #Hobgoblins out of hiding thinking that they got the jump on some easy targets. We then fight and kill them all dead. 
 
 ### ARRIVING IN [[VARDUUN]]
 Description of Varduun - ask Michael pls
 
-As we step into the city, we notice that the ground is shaking irregularly, it only seems to increase as we push further into the mountain. All of sudden the ground in front of us explodes ! 
+As we step into the city, we notice that the ground is shaking irregularly, it seems to increase as we push further into the mountain. All of sudden the ground in front of us explodes ! 
 
 
 
