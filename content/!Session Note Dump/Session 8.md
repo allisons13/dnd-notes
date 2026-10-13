@@ -1,5 +1,5 @@
 ### FROM SESSION 7
-*Yorloc has concluded that we have the key and askes to see it. He says the sometimes that the answer is right in front of us, we just have to approach it from a different angle. Sasha takes the key back, tries holding it up to the light, for a split second she sees something in the light in the gem of the key. Taking another stab at it, she casts #Light on something that she grabs off Yorloc's desk and is able to see there is a capital letter "I" in the center of the gem.  "Kaenum is always trying to teach us something."*  
+*Yorloc has concluded that we have the key and askes to see it. He says that sometimes that the answer is right in front of us, we just have to approach it from a different angle. Sasha takes the key back, tries holding it up to the light, for a split second she sees something in the light in the gem of the key. Taking another stab at it, she casts #Light on something that she grabs off Yorloc's desk and is able to see there is a capital letter "I" in the center of the gem.  "Kaenum is always trying to teach us something."*  
 
 *[[Dean Joseph Gordon Diehard]] has a note for Tumdrill, he doesn't know who the person who was who gave him that note, just that they were looking for Tumdrill.*  
 

@@ -1,4 +1,4 @@
-#### The Text
+#### THE TEXT
 > [!quote] 
 > *Let no single city bear alone what one day be needed. Four trusts were placed beyond [[Kaelith]], not as treasures, but obligations.*
 > 
@@ -9,5 +9,5 @@
 > 
 > *Their keeping shall pass into ordinary hands, that fear, ambition, and memory may fail before duty does.* 
 
-#### Notes 
-According to [[Archmage Liora Vael]] is was written about 500ish years ago. 
+#### NOTES 
+According to [[Archmage Liora Vael]] is was written about 500ish years ago - and she was there when it was written 
