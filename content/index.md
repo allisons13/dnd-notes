@@ -3,11 +3,11 @@ title: Home
 ---  
 ## SESSION NOTES
 
-### [[Session 7]]
-
 ### [[Session 8]]
 
 ### [[Session 9]]
+
+### [[Session 10]]
 
 --- 
 ### Whats going on!
