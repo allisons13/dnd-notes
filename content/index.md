@@ -3,26 +3,25 @@ title: Home
 ---  
 ## SESSION NOTES
 
-### [[Session 6]]
-
 ### [[Session 7]]
 
 ### [[Session 8]]
 
+### [[Session 9]]
+
 --- 
 ### Whats going on!
 
-#### From Session 8 Notes
-Description of Varduun - ask Michael pls
-
-As we step up to the outer gate of the city, we notice that the ground is shaking irregularly, it seems to increase as we push further into the mountain. All of sudden the ground in front of us explodes ! 
+#### From Session 9 Notes
+*Tumdrill and his father have a difficult conversation, Tumdrill invites him down when we go into the Lowerworks. He then goes to talk with his mother and invites her as well, she says that she can be ready to go by dinner. She wants to talk to some of the other stone singers about what we might see down there.* 
 
 ##### Relavent Pages
 - [[Varduun]]
+- [[Deep Vein Fracture]]
 - [[Stone Singers]]
 - [[Stonebound Accord]]
 - [[The Vision]]
-- [[small key with a red gem]]
+
 
 
 ![[Varduun.png]]
