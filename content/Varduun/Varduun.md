@@ -1,6 +1,6 @@
 #### *The Stonebound Hold*
 
-**Population**: ???
+**Population**: 14,000 in the city proper - 27,000 in the surrounding areas
 
 Varduun lies among rocky uplands where quarrying, stonework, metalwork, and durable craft shape daily life. It is a settlement of hard ground, forge heat, steep paths, carved stone, old excavations, mule tracks, workshops, terraces, and tools made to last. The people of Varduun are known for building things that endure.
 

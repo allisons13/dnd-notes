@@ -15,7 +15,7 @@ title: Home
 #### From Session 8 Notes
 Description of Varduun - ask Michael pls
 
-As we step into the city, we notice that the ground is shaking irregularly, it only seems to increase as we push further into the mountain. All of sudden the ground in front of us explodes ! 
+As we step up to the outer gate of the city, we notice that the ground is shaking irregularly, it seems to increase as we push further into the mountain. All of sudden the ground in front of us explodes ! 
 
 ##### Relavent Pages
 - [[Varduun]]

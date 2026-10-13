@@ -1,0 +1,1 @@
+Married to [[Dís Stoneblessed]] and father of [[Tumdrill Stoneblessed]] - used to be a guard of the mines
