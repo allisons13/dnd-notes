@@ -9,7 +9,12 @@ The new information [[Dís Stoneblessed|Dís]] gained when talking to the other 
 > [!quote] 
 > “The Stone Singers hold that some truths should not be written, because writing can be stolen. A rhythm must be taught, embodied, and answered.”
 
-Walking through the tunnel, [[Tumdrill Stoneblessed|Tumdrill]] using his #Tremor_Sense can sense four creatures in the room in front of us. Three of the "creatures" are empty suits of armor and there is a stone statue of a Goliath in the center of the room. When questioned about the creatures, she says that these items have been here before but they are different now. After casting a few defensive spells the armor and the statue animate and we fight! #Animated_Armor and #Animated_Stone_Satue. The creatures are destroyed, but we are unable to sense why or how they have come to life. 
+### FIRST ROOM 
 
+Walking through the tunnel, [[Tumdrill Stoneblessed|Tumdrill]] using his #Tremor_Sense can sense four creatures in the room in front of us. Three of the "creatures" are empty suits of armor and there is a stone statue of a Goliath in the center of the room. When questioned about the creatures, she says that these items have been here before but they are different now. After casting a few defensive spells the armor and the statue animate and we fight! #Animated_Armor and #Animated_Stone_Satue. The creatures are destroyed, but we are unable to sense why or how they have come to life. The two other collapsed tunnels coming from this room were not like this before this happened sometime after the Stonebound Accord was signed. 
 
+Sidenote - [[Shyrrik Zentharis|Shyrrik]] used a hit die to heal 
 
+### SECOND ROOM 
+
+Its a memorial to the six minors who died when the [[Lowerworks]] were collapsed. It was built as the Lowerworks were being closed, there are six statues for those who died with their names underneath each statue. 
