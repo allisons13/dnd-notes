@@ -9,5 +9,7 @@ The new information [[Dís Stoneblessed|Dís]] gained when talking to the other 
 > [!quote] 
 > “The Stone Singers hold that some truths should not be written, because writing can be stolen. A rhythm must be taught, embodied, and answered.”
 
-Walking through the tunnel, [[Tumdrill Stoneblessed|Tumdrill]] using his #Tremor_Sense can sense four creatures in the room in front of us. Three of the "creatures" are empty suits of armor and there is a stone statue of a Goliath in the center of the room. When questioned about the creatures, she says that these items have been here before but they are different now. 
+Walking through the tunnel, [[Tumdrill Stoneblessed|Tumdrill]] using his #Tremor_Sense can sense four creatures in the room in front of us. Three of the "creatures" are empty suits of armor and there is a stone statue of a Goliath in the center of the room. When questioned about the creatures, she says that these items have been here before but they are different now. After casting a few defensive spells the armor and the statue animate and we fight! #Animated_Armor and #Animated_Stone_Satue
+
+
 
